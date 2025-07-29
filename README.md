@@ -21,4 +21,8 @@ ML Models: Scikit-learn (NLP), TensorFlow/Keras (CNN)
 Tools: OpenCV, NumPy, Pandas, Bootstrap, HTML/CSS
 
 
+📄 License
 
+This project is licensed under the MIT License.
+
+TruthGuard AI aims to combat misinformation and synthetic media with the power of AI.
